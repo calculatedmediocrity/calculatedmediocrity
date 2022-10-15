@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I am Anastasia 👋
 
-### Learning every day to be a better QA engineer! 📚
+### ✨ Learning every day to be a better QA engineer! ✨
 
 <!--
 **calculatedmediocrity/calculatedmediocrity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
