@@ -4,7 +4,8 @@
 
 Here are some facts about me:
 - I’m currently working on testing web and mobile projects.
--
+- using those tools at work: DevTools, Figma, Jira, DBeaver, Swagger, Postman
+- and exploring those: GitBash (Terminal), Charles, JMeter, Fiddler, Android Studio, PyCharm.
 
 
 
