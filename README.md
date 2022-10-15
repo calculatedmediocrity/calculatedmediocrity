@@ -1,4 +1,4 @@
-## Hi there, I am Anastasia 👋
+## Hi there, I am Anastasia 🐸
 
 ### 📚 Learning every day to be a better QA engineer! 📚
 
