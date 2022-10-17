@@ -1,6 +1,7 @@
 ## Hi there, I am Anastasia 🐸
 
 ### 📚 Learning every day to be a better QA engineer! 📚
+### 📚 Learning every day to be a better QA engineer! 📚
 
 Here are some facts about me:
 - I’m currently working on testing web and mobile projects.
