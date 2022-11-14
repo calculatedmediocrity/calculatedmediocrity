@@ -4,8 +4,8 @@
 
 Here are some facts about me:
 - I’m currently working on testing web and mobile projects.
-- using those tools at work: DevTools, Figma, Jira, DBeaver, Swagger, Postman
-- and exploring those: GitBash (Terminal), Charles, JMeter, Fiddler, Android Studio, PyCharm.
+- using these tools at work: DevTools, Figma, Jira, DBeaver, Swagger, Postman
+- and exploring these: GitBash (Terminal), Charles, JMeter, Fiddler, Android Studio, PyCharm.
 
 <p>
  <img src="https://user-images.githubusercontent.com/106335063/195986274-1417f891-b50a-457f-892b-931007720982.png" width=10% height=10%>
