@@ -19,6 +19,7 @@ Here are some facts about me:
 </div>
 
  - focusing on learning both manual and automation testing
+ 
  - a very caring team worker and a quick learner 🧡
  
 ### Connect with me
