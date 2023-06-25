@@ -12,9 +12,8 @@
 		</ul>
 	</div>
 </div>
-
+<br>
 <div align="left">
-	<h4>Tools and technologies I use:</h4>
 	<div> 
         <img alt="DevTools" src="https://img.shields.io/badge/DevTools-FFE4C4?style=for-the-badge&logo=googlechrome"> 
         <img alt="Postman" src="https://img.shields.io/badge/Postman-FFE4C4?style=for-the-badge&logo=postman">             
