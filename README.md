@@ -3,7 +3,7 @@
 <br>
 <div style="display: flex;">
 	<div style="flex: 1;">
-		<h4>Here's what you can learn about me:</h4> <img align="right" alt="GIF" height="215" width="215" src="bb6d7677244c8427db85c4d7e2a903ca.gif" />
+		<h4>Here's what you can learn about me:</h4> <img align="right" alt="GIF" height="215" width="215" src="media/bb6d7677244c8427db85c4d7e2a903ca.gif" />
 		<ul>
 			<li>I work on testing web, desktop, and mobile projects</li>
 			<li>I am a very caring team worker and a quick learner 🧡</li>
