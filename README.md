@@ -27,7 +27,7 @@
         <img alt="Charles" src="https://img.shields.io/badge/Charles-FFE4C4?style=for-the-badge&logo=charlesproxy"> 
         <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-FFE4C4?style=for-the-badge&logo=androidstudio"> 
         <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-FFE4C4?style=for-the-badge&logo=PyCharm&logoColor=black"> 
-        <img alt="Youtrack" src="https://img.shields.io/badge/Youtrack-FFE4C4?style=for-the-badge&logo=youtrack&logoColor=blue" ">
+      	<img alt="Trello" src="https://img.shields.io/badge/Trello-FFE4C4?style=for-the-badge&logo=trello&logoColor=blue"> 
     </div>
 </div>
 <br> 
