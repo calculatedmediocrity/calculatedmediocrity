@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Anastasia </a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-<h3 align="center"> Manual QA Engineer </h3>
+<h3 align="center"> QA Engineer </h3>
 <br>
 <div style="display: flex;">
 	<div style="flex: 1;">
