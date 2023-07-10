@@ -49,6 +49,6 @@ Definitely!
  </div> 
 
 ### Contact details
-📨  Telegram  <a href="https://t.me/carbsfan" target="blank">@carbsfan
+💌 Telegram  <a href="https://t.me/carbsfan" target="blank">@carbsfan
 
 📬   E-Mail amorozova.qa@gmail.com
