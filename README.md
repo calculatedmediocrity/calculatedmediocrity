@@ -41,7 +41,7 @@ Definitely!
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![REST](https://img.shields.io/badge/REST-005f85?style=for-the-badge&logo=rest&logoColor=white)
 ![unittest](https://img.shields.io/badge/unittest-FFC107?style=for-the-badge&logo=python&logoColor=white)
 ![requests](https://img.shields.io/badge/requests-FFB6C1?style=for-the-badge&logo=requests&logoColor=white)
