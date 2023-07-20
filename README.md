@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Anastasia </a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <h3 align="center"> QA Engineer </h3>
+
 <br>
 <div style="display: flex;">
 	<div style="flex: 1;">
@@ -40,13 +41,19 @@ Definitely!
 	<div> 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-blue?style=for-the-badge&logo=pytest)
+![Allure](https://img.shields.io/badge/-Allure-%23E1FCAD?style=for-the-badge&logo=allure)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![REST](https://img.shields.io/badge/REST-005f85?style=for-the-badge&logo=rest&logoColor=white)
 ![unittest](https://img.shields.io/badge/unittest-FFC107?style=for-the-badge&logo=python&logoColor=white)
 ![requests](https://img.shields.io/badge/requests-FFB6C1?style=for-the-badge&logo=requests&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 	</div>
  </div> 
+
+____________________________
+📝 Check my resume on [Git Pages](https://calculatedmediocrity.github.io/CV/)
+ ___________________________
 
 ### Contact details
 💌 Telegram  <a href="https://t.me/carbsfan" target="blank">@carbsfan
